@@ -1,4 +1,4 @@
-height = 1.75
-weight = 70
-steps = 1000
-time = 2
+HEIGHT = 1.75
+WEIGHT = 70
+STEPS = 1000
+TIME = 2
